@@ -11,3 +11,4 @@ This project is a sleek and modern home automation interface designed for iOS, d
 * Xcode 12.0 or later
 * iOS 14.0 or later
 * Swift 5.0 or later
+## Screenshots
