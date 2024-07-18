@@ -12,3 +12,6 @@ This project is a sleek and modern home automation interface designed for iOS, d
 * iOS 14.0 or later
 * Swift 5.0 or later
 ## Screenshots
+![Simulator Screenshot - iPhone 14 Plus - 2024-07-18 at 10 59 14](https://github.com/user-attachments/assets/540f7d73-68db-4ae6-b3e1-5f9d4efae601)
+
+
