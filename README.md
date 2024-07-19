@@ -1,4 +1,4 @@
-### UIDesign App
+### SmartHome UI
 ## Introduction
 This project is a sleek and modern home automation interface designed for iOS, developed using Swift and Xcode. The interface features a customizable weather forecast, energy consumption overview, and device control panel, all integrated into a user-friendly layout.
 ## Features
