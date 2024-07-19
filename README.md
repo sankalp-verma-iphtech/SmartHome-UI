@@ -21,5 +21,11 @@ If you encounter any problems or have any questions, please contact the project 
 We would like to thank the IOS community for their excellent framework and documentation,which greatly facilitated the development of this project.
 ## Screenshots
 ![Simulator Screenshot - iPhone 14 Plus - 2024-07-18 at 10 59 14](https://github.com/user-attachments/assets/540f7d73-68db-4ae6-b3e1-5f9d4efae601)
+![Simulator Screenshot - iPhone 14 Plus - 2024-07-18 at 11 13 36](https://github.com/user-attachments/assets/e2baab10-dbdd-4475-ad5c-6b2d0d53e521)
+![Simulator Screenshot - iPhone 14 Plus - 2024-07-18 at 11 35 52](https://github.com/user-attachments/assets/f40ca301-3fae-4e60-8771-6cc15326fea4)
+
+
+
+![Simulator Screen Recording - iPhone 14 Plus - 2024-07-19 at 15 09 43](https://github.com/user-attachments/assets/6fe3ade6-939e-434a-9c19-fbfc65a45884)
 
 
