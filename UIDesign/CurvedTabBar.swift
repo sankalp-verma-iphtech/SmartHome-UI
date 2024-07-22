@@ -48,7 +48,7 @@ class CurvedTabBar: UITabBar {
         
         path.addLine(to: CGPoint(x: self.frame.width, y: 0))
         path.addLine(to: CGPoint(x: self.frame.width, y: height))
-        path.addLine(to: CGPoint(x: 0, y: height)) 
+        path.addLine(to: CGPoint(x: 0, y: height))
         path.close()
         
         return path.cgPath

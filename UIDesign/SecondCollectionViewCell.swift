@@ -40,8 +40,6 @@ class SecondCollectionViewCell: UICollectionViewCell {
 
         override func layoutSubviews() {
             super.layoutSubviews()
-
-            
             layer.shadowPath = UIBezierPath(roundedRect: bounds, cornerRadius: contentView.layer.cornerRadius).cgPath
         }
 

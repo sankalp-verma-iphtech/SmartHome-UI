@@ -15,20 +15,14 @@ class ThirdCollectionViewCell: UICollectionViewCell {
     
     override func awakeFromNib() {
         super.awakeFromNib()
-        
         self.layer.cornerRadius = 20
         self.layer.masksToBounds = false
-        
-        
         self.layer.borderWidth = 0.5
-        
-       
         self.layer.shadowColor = UIColor.black.cgColor
         self.layer.shadowOffset = CGSize(width: 0, height: 2)
         self.layer.shadowOpacity = 0.3
         self.layer.shadowRadius = 4.0
         self.layer.shadowPath = UIBezierPath(roundedRect: self.bounds, cornerRadius: self.layer.cornerRadius).cgPath
-        
         gradientView = GradientView(frame: self.contentView.bounds)
         gradientView.translatesAutoresizingMaskIntoConstraints = false
         self.contentView.addSubview(gradientView)
