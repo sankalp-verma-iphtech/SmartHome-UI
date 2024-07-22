@@ -18,7 +18,7 @@
 		0F330B832C353AC1003BBE9A /* EnergyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F330B822C353AC1003BBE9A /* EnergyView.swift */; };
 		0F330B852C353B16003BBE9A /* createGradientLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F330B842C353B16003BBE9A /* createGradientLayer.swift */; };
 		0F330B8A2C355011003BBE9A /* CustomTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F330B882C355011003BBE9A /* CustomTabBarController.swift */; };
-		0F330B8B2C355011003BBE9A /* customTabBarController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0F330B892C355011003BBE9A /* customTabBarController.xib */; };
+		0F330B8B2C355011003BBE9A /* CustomTabBarController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0F330B892C355011003BBE9A /* CustomTabBarController.xib */; };
 		0F330B8D2C355352003BBE9A /* WeatherView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F330B8C2C355352003BBE9A /* WeatherView.swift */; };
 		0F36A4082C37F8DF006184FF /* CurvedTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F36A4072C37F8DF006184FF /* CurvedTabBar.swift */; };
 		0F48FA612C4654F5005E25BA /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F48FA602C4654F5005E25BA /* GradientView.swift */; };
@@ -45,7 +45,7 @@
 		0F330B822C353AC1003BBE9A /* EnergyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnergyView.swift; sourceTree = "<group>"; };
 		0F330B842C353B16003BBE9A /* createGradientLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = createGradientLayer.swift; sourceTree = "<group>"; };
 		0F330B882C355011003BBE9A /* CustomTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBarController.swift; sourceTree = "<group>"; };
-		0F330B892C355011003BBE9A /* customTabBarController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = customTabBarController.xib; sourceTree = "<group>"; };
+		0F330B892C355011003BBE9A /* CustomTabBarController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomTabBarController.xib; sourceTree = "<group>"; };
 		0F330B8C2C355352003BBE9A /* WeatherView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherView.swift; sourceTree = "<group>"; };
 		0F36A4072C37F8DF006184FF /* CurvedTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurvedTabBar.swift; sourceTree = "<group>"; };
 		0F48FA602C4654F5005E25BA /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
@@ -91,7 +91,7 @@
 				0F330B6E2C352174003BBE9A /* AppDelegate.swift */,
 				0F330B702C352174003BBE9A /* SceneDelegate.swift */,
 				0F330B882C355011003BBE9A /* CustomTabBarController.swift */,
-				0F330B892C355011003BBE9A /* customTabBarController.xib */,
+				0F330B892C355011003BBE9A /* CustomTabBarController.xib */,
 				0F0BFB5F2C368E86004F51E3 /* MyCollectionViewCell.swift */,
 				0F0BFB602C368E86004F51E3 /* MyCollectionViewCell.xib */,
 				0FBCB65C2C3E477C00250D95 /* SecondCollectionViewCell.swift */,
@@ -176,7 +176,7 @@
 				0F330B7B2C352175003BBE9A /* LaunchScreen.storyboard in Resources */,
 				0F330B782C352175003BBE9A /* Assets.xcassets in Resources */,
 				0FBCB65F2C3E477C00250D95 /* SecondCollectionViewCell.xib in Resources */,
-				0F330B8B2C355011003BBE9A /* customTabBarController.xib in Resources */,
+				0F330B8B2C355011003BBE9A /* CustomTabBarController.xib in Resources */,
 				0FC4E9DF2C3FC73400814932 /* ThirdCollectionViewCell.xib in Resources */,
 				0F0BFB622C368E86004F51E3 /* MyCollectionViewCell.xib in Resources */,
 				0F330B762C352174003BBE9A /* Main.storyboard in Resources */,
