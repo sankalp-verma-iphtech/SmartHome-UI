@@ -17,8 +17,8 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         super.viewDidLoad()
         setupUI()
         
-        let nib = UINib(nibName: "myCollectionViewCell", bundle: nil)
-        devicecollectionView.register(nib, forCellWithReuseIdentifier: "myCollectionViewCell")
+        let nib = UINib(nibName: "MyCollectionViewCell", bundle: nil)
+        devicecollectionView.register(nib, forCellWithReuseIdentifier: "MyCollectionViewCell")
     }
     
     func setupUI() {
@@ -48,7 +48,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     }
 
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
-        let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "myCollectionViewCell", for: indexPath) as! myCollectionViewCell
+        let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "MyCollectionViewCell", for: indexPath) as! MyCollectionViewCell
         let title = titles[indexPath.item]
         let imageName = images[indexPath.item]
         cell.configure(title: title, imageName: imageName)

@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0F0BFB612C368E86004F51E3 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F0BFB5F2C368E86004F51E3 /* MyCollectionViewCell.swift */; };
-		0F0BFB622C368E86004F51E3 /* myCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0F0BFB602C368E86004F51E3 /* myCollectionViewCell.xib */; };
+		0F0BFB622C368E86004F51E3 /* MyCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0F0BFB602C368E86004F51E3 /* MyCollectionViewCell.xib */; };
 		0F330B6F2C352174003BBE9A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F330B6E2C352174003BBE9A /* AppDelegate.swift */; };
 		0F330B712C352174003BBE9A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F330B702C352174003BBE9A /* SceneDelegate.swift */; };
 		0F330B732C352174003BBE9A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F330B722C352174003BBE9A /* ViewController.swift */; };
@@ -33,7 +33,7 @@
 
 /* Begin PBXFileReference section */
 		0F0BFB5F2C368E86004F51E3 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
-		0F0BFB602C368E86004F51E3 /* myCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = myCollectionViewCell.xib; sourceTree = "<group>"; };
+		0F0BFB602C368E86004F51E3 /* MyCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MyCollectionViewCell.xib; sourceTree = "<group>"; };
 		0F330B6B2C352174003BBE9A /* UIDesign.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIDesign.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F330B6E2C352174003BBE9A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0F330B702C352174003BBE9A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -93,7 +93,7 @@
 				0F330B882C355011003BBE9A /* CustomTabBarController.swift */,
 				0F330B892C355011003BBE9A /* customTabBarController.xib */,
 				0F0BFB5F2C368E86004F51E3 /* MyCollectionViewCell.swift */,
-				0F0BFB602C368E86004F51E3 /* myCollectionViewCell.xib */,
+				0F0BFB602C368E86004F51E3 /* MyCollectionViewCell.xib */,
 				0FBCB65C2C3E477C00250D95 /* SecondCollectionViewCell.swift */,
 				0FBCB65D2C3E477C00250D95 /* SecondCollectionViewCell.xib */,
 				0FC4E9DC2C3FC73400814932 /* ThirdCollectionViewCell.swift */,
@@ -178,7 +178,7 @@
 				0FBCB65F2C3E477C00250D95 /* SecondCollectionViewCell.xib in Resources */,
 				0F330B8B2C355011003BBE9A /* customTabBarController.xib in Resources */,
 				0FC4E9DF2C3FC73400814932 /* ThirdCollectionViewCell.xib in Resources */,
-				0F0BFB622C368E86004F51E3 /* myCollectionViewCell.xib in Resources */,
+				0F0BFB622C368E86004F51E3 /* MyCollectionViewCell.xib in Resources */,
 				0F330B762C352174003BBE9A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
