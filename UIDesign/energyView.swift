@@ -1,6 +1,6 @@
 import UIKit
 
-class energyView: UIView {
+class EnergyView: UIView {
     
    
         @IBOutlet private weak var energyLabel: UILabel!

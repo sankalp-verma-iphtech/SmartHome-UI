@@ -4,7 +4,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     
     @IBOutlet weak var prohomeLabel: UILabel!
     @IBOutlet weak var weatherView1: weatherView!
-    @IBOutlet weak var energyView1: energyView!
+    @IBOutlet weak var energyView1: EnergyView!
     @IBOutlet weak var devicecollectionView: UICollectionView!
     @IBOutlet weak var tabBar: CurvedTabBar!
     @IBOutlet weak var devicesLabel: UILabel!
